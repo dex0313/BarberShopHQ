@@ -2,8 +2,8 @@ source "https://rubygems.org"
 
 gem "sinatra"
 gem "sqlite3"
-gen "activerecord"
-gem "sinatra-activerecodr"
+gem "activerecord"
+gem "sinatra-activerecord"
 gem "sinatra-contrib"
 
 #Подключаем гемы для разработки
